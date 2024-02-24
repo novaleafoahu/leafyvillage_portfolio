@@ -1,0 +1,12 @@
+div.alert-talk > div:first-child::before {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 200;
+    color: #4c5f26;
+    content: '\f075';
+  }
+  
+  .alert-talk {
+    color: #111111;
+    background-color: #fbfeff;
+    border-color: #a8aca0;
+  }
