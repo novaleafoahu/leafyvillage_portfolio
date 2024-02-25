@@ -278,14 +278,6 @@ Growing cucumber plants are fairly low maintenance yet provide plenty of produce
 
 
 
-## Notes 
-
-
-### Gallery (coming soon)
-
-
-
-
 
 
 [^2] [^3]
