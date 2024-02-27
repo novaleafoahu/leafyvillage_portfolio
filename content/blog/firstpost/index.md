@@ -10,6 +10,7 @@ date: '2024-02-06'
 lastmod: '2024-02-06'
 show_date: true
 share: true
+
 ---
 
 Date is 2/20/24 in Zone 7b. Outdoors temps range hi 46, low 26. Over the weekend started seed prep in new winstrip trays by neversink farms. Initial impression....👍very nice.

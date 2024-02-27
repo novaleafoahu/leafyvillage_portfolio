@@ -15,7 +15,7 @@ tags: [vegetables]
 #### 📣 At a glance
 
 ```markmap {height="300px"}
-- 🍅**Tomato plants**
+- 🥒**Cucumber plants**
   - 🌞 **Sun** Full 
   - 🌧️ **Water** Every other day, if leaves
       are wilting = add water
@@ -184,7 +184,7 @@ I typically allow the cucumbers plants to grow for 5-6 months starting in April 
 
 
 
-📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for cucumber plants:** </mark> [^3]
+📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for cucumber plants:** </mark> [^2]
 
 For Nitrogen (N), (100 lbs) per acre. 
 
@@ -261,7 +261,7 @@ Harvest cucumbers at the recommended length below. If harvesting is delayed and 
 |Gherkin (P)|2-3|
 |Striped Armenian| 8-18|
 
->(P) = Pickling; (S) = Slicing
+>(P) = Pickling; (S) = Slicing [^3]
 
 
 
@@ -280,16 +280,16 @@ Growing cucumber plants are fairly low maintenance yet provide plenty of produce
 
 
 
-[^2] [^3]
+
 
 
 
 ## References
 [^1]:[aces cucumber production](https://www.aces.edu/blog/topics/crop-production/greenhouse-cucumber-production/) 
 
-[^2]:[ucdavis cucumbers](https://www.wifss.ucdavis.edu/wp-content/uploads/2016/05/FDA_WIFSS_-Cucumbers_PDF.pdf)
+[^3]:[ucdavis cucumbers](https://www.wifss.ucdavis.edu/wp-content/uploads/2016/05/FDA_WIFSS_-Cucumbers_PDF.pdf)
 
-[^3]:[cornell cucumber fertilizing](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf)
+[^2]:[cornell cucumber fertilizing](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf)
 
 [^4]:[clemson](https://hgic.clemson.edu/factsheet/harvesting-vegetables/)
 

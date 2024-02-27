@@ -4,12 +4,16 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
-    weight: 10
   - name: About
     url: about/
     weight: 9
   - name: Blog
     url: blog/
     weight: 30
+  - name: TikTok
+    url: https://tiktok.com
+    weight: 40
+  - name: IG
+    url: https://instagram.com
+    weight: 50
+

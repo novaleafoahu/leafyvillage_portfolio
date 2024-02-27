@@ -2,16 +2,18 @@
 widget: hero
 headless: true
 weight: 1
-title: Welcome🍃☀️🌻
-#hero_media: lv.png
+#title: Welcome
+#hero_media: logo.png
 # design:
-   #background:
+  # background:
     #gradient_start: '#d9ead3'
     #gradient_end: '#fff2cc'
     #text_color_light: false
     #image: background.jpg
 ---
-Here you will find a collection of gardening notes and a blog as to my gardening journey. Feel free to check out my instagram and tiktok.
+
+![trays](logo.png )
 
 
-
+🔥Welcome. Here you'll find a collection of gardening notes and a blog about my gardening journey 🍥🍜🦊.   
+ 
