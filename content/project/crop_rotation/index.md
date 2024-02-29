@@ -11,7 +11,10 @@ tags: [notes]
 ---
 
 ## Introduction 
-Crop rotation is important for a number of reasons.
+Each type of plant, sometimes require different levels of each type of nutrients. Furthermore, each plant also attracts different type of fungus, bacteria, pests, and insects. Therefore, if the same type of plant is repeatedly grown in the same location over time, a build up of 'negative things' can accumulate and certain nutrients depleted. Therefore, we best rotate them crops. 
+
+
+Crop rotation:
 
 1. Minimizes the accumulation of certain pests/insects. 
 2. Allows for certain nutrient cycling and healthy bacteria to re-balance/re-store.  
@@ -28,9 +31,7 @@ Here are a list of some common veggie families to note.
 
 
 
-
-
-## Common vegtable family groups
+## Common vegetable family groups
 
 |  **FAMILY**                                        | **MEMBER PLANTS**                                                                                                                                      |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,11 +51,6 @@ Here are a list of some common veggie families to note.
 | 🍓 **Rose**                                          | strawberry                                                                                                                                         |
 |  **🌾Smartweed**                                     | buckwheat, rhubarb, sorrel                                                                                                                          |
 | 🥕 **Umbel**                                         | carrot, celeriac, celery, dill, fennel, lovage, parley, parsnip 
-
-
-
-
-
 
 
 

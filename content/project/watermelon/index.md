@@ -10,12 +10,6 @@ tags: [vegetables]
 ---
 
 
-
-> 📖 **tidbit:** both seeds and paintings of watermelon have been discovered in Egyptian tombs more than 4,000 years old. [^4]
-
-
-
-
 #### 📣 At a glance
 
 ```markmap {height="300px"}
@@ -180,7 +174,9 @@ I typically allow the watermelon plants to grow for 5-6 months starting in April
 
 
 
-📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for cucumber plants:** </mark> [^3]
+📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for cucumber plants [^1]:** </mark> 
+
+
 
 For Nitrogen (N), (100 lbs) per acre. 
 
@@ -223,7 +219,7 @@ For 0.19 lbs potassium, one can use potash 0-0-60 at 0.3 lbs.
 With these values, the fertilizer can be applied weekly throughout the months. Simply divide the amount of fertilizer by the number of weeks the watermelon plant may grow. To simplify measuring, convert lbs to grams...
 
 
-1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted watermelon plant, ~0.5 grams of calcium nitrate. The same can be done for the Phosphorous and Potassium. 
+1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted watermelon plant, ~0.5 grams of calcium nitrate. The same can be done for the Phosphorous and Potassium [^2]. 
 
 
 ### In the ground
@@ -248,6 +244,9 @@ Here are the watermelon plants growing in the garden bed. Once the weather start
 
 ------
 ## Harvest 🍉
+
+
+> 📖 **tidbit:** both seeds and paintings of watermelon have been discovered in Egyptian tombs more than 4,000 years old. [^3]
 
 Hopefully you have gotten this far and can enjoy the fruits of labor!  The first watermelon harvest started at the end of July (Zone 7b). Watermelon can be harvested once they reach the desired size and when the tendril has dried. The tendril is located opposite of where the watermelon is connected on the vine. A dried tendril will be completely dried and brown.  I will update this post later this year with a photo of the tendril. To harvest, simply cut the melon off from the vine. 
 
@@ -274,16 +273,14 @@ If you have any questions, suggestions, or wanna say hello 👋, drop a comment 
 
 
 
-[^2] [^3]
 
 
 
 ## References
-[^1]:[university missouri](https://ipm.missouri.edu/MEG/2020/7/watermelon-DT/)
-
+[^1]:[Cornell University 2019 fertilization](https://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) 
 [^2]:[university missouri Watermelon ](https://extension.missouri.edu/publications/m173)
+[^3]:[university missouri](https://ipm.missouri.edu/MEG/2020/7/watermelon-DT/)
 
-[^3]:[university missouri Watermelon ](https://extension.missouri.edu/publications/m173)
 
-[^4]:[uiversity missouri](https://ipm.missouri.edu/MEG/2020/7/watermelon-DT/)
+
 

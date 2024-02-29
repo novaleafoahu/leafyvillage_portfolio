@@ -10,10 +10,10 @@ main:
   - name: Blog
     url: blog/
     weight: 30
-  - name: TikTok
+  - name: 🎬
     url: https://tiktok.com
     weight: 40
-  - name: IG
+  - name: 📷
     url: https://instagram.com
     weight: 50
 

@@ -17,9 +17,6 @@ Locate the area of your garden below and note the zone. Use this information to 
 ![usa zones](/zone.PNG "ⓘ For further  details, visit the [usda  map](https://planthardiness.ars.usda.gov/)")
 
 
-
-
-
 {{< figure src="NC.PNG" caption="North Central Zone" numbered="true" >}}
 
 {{< figure src="NE.PNG" caption="North East Zone" numbered="true" >}}

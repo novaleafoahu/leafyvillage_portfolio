@@ -46,7 +46,7 @@ Tomatoes can also be Indeterminate  or Determinate.
 - **Determinate tomatoes** grows all fruit at a given time and ripens all together. The plant is typically finished afterwards.
 
 Check the section NJ Zone 7 Seed link on the right regarding typical tomato varieties that grow well in NJ. I will update when I can locate similar lists for other zones. 
-{{% /callout %}}
+{{% /callout %}} 
 
 
 
@@ -186,7 +186,7 @@ I typically allow the tomato plants to grow for 5-6 months starting in April whe
 
 
 
-📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for tomato plants:** </mark>
+📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for tomato plants:** </mark> [^1]
 
 For Nitrogen (N), (100 lbs) per acre. 
 
@@ -278,7 +278,7 @@ Growing tomatoes at home are on another level compared to what is sold at   big 
 ### NJ Zone 7 seed list: 
 
 A recommended list of tomatoes that grow well in NJ, provided by 
-[Rutgers University](https://njaes.rutgers.edu/fs678/)
+[Rutgers University](https://njaes.rutgers.edu/fs678/) [^2]
 
 | Season      | Variety                                                                                 | Days to Maturity | Vine Type        | Disease Resistance | Fruit Size (oz.) |
 | ----------- | --------------------------------------------------------------------------------------- | ---------------- | ---------------- | ------------------ | ---------------- |
@@ -303,9 +303,9 @@ A recommended list of tomatoes that grow well in NJ, provided by
 
 
 ## References
-- [Tomato yield Mississippi State University ](http://extension.msstate.edu/content/how-much-yield-can-i-expect-plant)
-- [Cornell University 2019 fertilization](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) 
-- [Univerisity Rutgers Tomato List](https://njaes.rutgers.edu/fs678/)
 
+[^1]:[Cornell University 2019 fertilization](https://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) 
+[^2]:[Univerisity Rutgers Tomato List](https://njaes.rutgers.edu/fs678/)
+[^3]:[Tomato yield Mississippi State University ](https://extension.msstate.edu/content/how-much-yield-can-i-expect-plant)
 
 
