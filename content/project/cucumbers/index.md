@@ -201,34 +201,48 @@ For Potassium (K)
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
 | **add K lbs per acre**      | 160   | 120       | 80      | 40    | 0       | 0 |
 
-Taking average values for P and K we can use N 100 P 80 K 80 per acre (aka 43560 square feet).
+Taking average values for P and K we can use N 100 P 80 K 80 per acre (i.e. 43560 square feet).
 
- <mark> **Scaled down to a 100 SF garden, the values are:** </mark>
-
- - 0.23 lbs Nitrogen, 
- - 0.19 lbs Phosphorus, 
- - 0.19 lbs of Potassium.
-
-
+ 
 Now that we know the weight required of each NPK value, now determine the amount of fertilizer equivalent. 
 
 📚 <mark> **Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/)** </mark> 
 
 
-For example, calcium nitrate has an NPK rating of 15.5-0-0.
 
-Therefore, to obtain 0.23 lbs of nitrogen for a 100 SF plot of tomatoes, one would require 1.5 lbs of calcium nitrate.
-
-For 0.19 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.0 lbs.
-
-For 0.19 lbs potassium, one can use potash 0-0-60 at 0.3 lbs. 
+{{< figure src="fertcalc.png" caption="fertilizer calculation" numbered="true" >}}
 
 
-With these values, the fertilizer can be applied weekly throughout the months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplify measuring, convert lbs to grams...
+
+The required fertilizers for 1 acre are now listed below:
+
+1. 667 lbs of 15-0-0 calcium nitrate
+2. 174 lbs of 0-46-0 triple super phosphate 
+3. 160 lbs of 0-0-50 potash
+
+Lets now convert to grams:
+1. 302546 grams of 15-0-0 calcium nitrate
+2. 78925 grams of 0-46-0 triple super phosphate 
+3. 72574 grams of 0-0-50 potash
+
+Now convert to square feet by dividing the grams by 43560 
+
+1. 6.7 grams of 15-0-0 calcium nitrate
+2. 1.8 grams of 0-46-0 triple super phosphate 
+3. 1.6 grams of 0-0-50 potash
+
+In other words, for a 100 sf garden, total fertilizer required for the lifespan of the plants are:
+1. 670 grams of 15-0-0 calcium nitrate
+2. 180 grams of 0-46-0 triple super phosphate 
+3. 160 grams of 0-0-50 potash
 
 
-1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted cucumber plant, ~0.5 grams of calcium nitrate. The same can be done for the Phosphorous and Potassium. 
+With these values, we can now divide the amount of fertilizer by the number of weeks the plant may grow. 
 
+ <mark> **Over 12 weeks, you can apply the following weekly for a 100 SF garden**  </mark>
+1. 670/12 = 55 grams of calcium nitrate weekly 
+2. 180/12 = 15 grams of triple super phosphate 
+3. 160/12 = 13 grams of potash
 
 
 
