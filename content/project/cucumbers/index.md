@@ -175,10 +175,12 @@ Plants should be spaced 1.5-2 feet apart. This spacing ensures adequate air flow
 
 
 ### Fertilizing 💪
+In this section, I will show how I calculated each fertilizer for use in my garden. Fertilizing is **real** important for healthy plants and consistent high quality cucumbers and yields.
+
 
 {{% callout note %}}
 
-I typically allow the cucumbers plants to grow for 5-6 months starting in April when they are transplanted. That is around 20-24 weeks of growth once they are in the ground. I divide the required fertilizer by the total weeks to get the weekly serving size. Fertilizing is real important for a healthy plants and consistent high quality cucumbers and yields.
+I typically allow cucumbers plants to grow for ~5 months starting in April when they are transplanted. That is around ~20 weeks of growth once they are planted. I divide the required fertilizer by the total weeks to get the weekly serving size. 
 
 {{% /callout %}}
 
@@ -186,25 +188,27 @@ I typically allow the cucumbers plants to grow for 5-6 months starting in April 
 
 📚 <mark> **[According to Cornell University](http://nmsp.cals.cornell.edu/publications/files/VegetableGuidelines2019.pdf) the following rates are recommended for cucumber plants:** </mark> [^2]
 
-For Nitrogen (N), (100 lbs) per acre. 
+* For Nitrogen (N), (100 lbs) per acre. 
 
  
-For Phosphorus (P)
-
+For Phosphorus (P):
 | if current P levels are (lbs /acre)  |< 3       | 3-5  | 6-12  | 13-39         | 40+ | 
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
 | **add P lbs per acre**      | 160   | 120       | 80      | 40    | 20       | 0 |
 
-For Potassium (K)
+For Potassium (K):
 
 | if current K levels are (lbs /acre)  |< 50       | 50-99  | 100-199  | 200-299         | 300+ | 
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
 | **add K lbs per acre**      | 160   | 120       | 80      | 40    | 0       | 0 |
 
-Taking average values for P and K we can use N 100 P 80 K 80 per acre (i.e. 43560 square feet).
+Taking average values for P and K we can use, per acre (i.e. 43560 square feet).: 
+* N 100 lbs
+* P 80 lbs
+* K 80 lbs
 
  
-Now that we know the weight required of each NPK value, now determine the amount of fertilizer equivalent. 
+Now that we know the weight required of each NPK value, we now determine the amount of fertilizer equivalent. 
 
 📚 <mark> **Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/)** </mark> 
 
@@ -216,35 +220,35 @@ Now that we know the weight required of each NPK value, now determine the amount
 
 The required fertilizers for 1 acre are now listed below:
 
-1. 667 lbs of 15-0-0 calcium nitrate
-2. 174 lbs of 0-46-0 triple super phosphate 
-3. 160 lbs of 0-0-50 potash
+* 667 lbs of 15-0-0 calcium nitrate
+* 174 lbs of 0-46-0 triple super phosphate 
+* 160 lbs of 0-0-50 potash
 
-Lets now convert to grams:
-1. 302546 grams of 15-0-0 calcium nitrate
-2. 78925 grams of 0-46-0 triple super phosphate 
-3. 72574 grams of 0-0-50 potash
+Lets now convert lbs to grams to allow for easier division of square feet:
+* 302546 grams of 15-0-0 calcium nitrate
+* 78925 grams of 0-46-0 triple super phosphate 
+* 72574 grams of 0-0-50 potash
 
 Now convert to square feet by dividing the grams by 43560 
 
-1. 6.7 grams of 15-0-0 calcium nitrate
-2. 1.8 grams of 0-46-0 triple super phosphate 
-3. 1.6 grams of 0-0-50 potash
+* 6.7 grams of 15-0-0 calcium nitrate
+* 1.8 grams of 0-46-0 triple super phosphate 
+* 1.6 grams of 0-0-50 potash
 
-In other words, for a 100 sf garden, total fertilizer required for the lifespan of the plants are:
-1. 670 grams of 15-0-0 calcium nitrate
-2. 180 grams of 0-46-0 triple super phosphate 
-3. 160 grams of 0-0-50 potash
-
-
-With these values, we can now divide the amount of fertilizer by the number of weeks the plant may grow. 
-
- <mark> **Over 12 weeks, you can apply the following weekly for a 100 SF garden**  </mark>
-1. 670/12 = 55 grams of calcium nitrate weekly 
-2. 180/12 = 15 grams of triple super phosphate 
-3. 160/12 = 13 grams of potash
+In other words, for a 100 sf garden, **total** fertilizer required for the **lifespan** of the plants are:
+* 670 grams of 15-0-0 calcium nitrate
+* 180 grams of 0-46-0 triple super phosphate 
+* 160 grams of 0-0-50 potash
 
 
+With these values, we can now determine the weekly serving size by dividing the amount of fertilizer by the number of weeks the plant may grow. 
+
+ <mark> **Over 20 weeks, you can apply the following weekly for a 100 SF garden**  </mark>
+* 670/20 = 33.5 grams of calcium nitrate weekly 
+* 180/20 = 9 grams of triple super phosphate 
+* 160/20 = 8 grams of potash
+
+These fertilizers can simply be placed near the stem of each plant. As they get watered, the fertilizer will break down and make its way down to the roots.
 
 ### In the ground
 
