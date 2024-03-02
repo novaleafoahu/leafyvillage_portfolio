@@ -19,8 +19,9 @@ tags: [vegetables]
   - 🌧️ **Water** Every other day, if leaves
       are wilting = add water
   - 🥫 **Fertilize** Weekly with 20-20-20 at 
-          ~150-200 ppm at full size, or utilize fertilizer 
-          calculator below 
+          ~150-200 ppm or 33.5g, 13g, 12.5g
+          (calc nitrate, triple super phosphate, potash)
+          per 100 SF  
   - 🧪 **PH** 6.2 to 6.8
   - 📏 **Spacing** 1.5 - 2 Feet apart per plant
   - 🧹 **Maintenance** Every few days, clear 
@@ -203,13 +204,11 @@ For Potassium (K)
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
 | **add K lbs per acre**      | 240   | 180       | 120      | 60    | 0       | 0 |
 
-Taking average values for P and K we can use N 100 P 100 K 120 per acre (aka 43560 square feet).
 
- <mark> **Scaled down to a 100 SF garden, the values are:** </mark>
-
- - 0.23 lbs Nitrogen, 
- - 0.23 lbs Phosphorus, 
- - 0.275 lbs of Potassium.
+Taking average values for P and K we can use, per acre (i.e. 43560 square feet).: 
+* N 100 lbs
+* P 100 lbs
+* K 120 lbs
 
 
 Now that we know the weight required of each NPK value, now determine the amount of fertilizer equivalent. 
@@ -217,20 +216,40 @@ Now that we know the weight required of each NPK value, now determine the amount
 📚 <mark> **Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/)** </mark> 
 
 
-For example, calcium nitrate has an NPK rating of 15.5-0-0.
-
-Therefore, to obtain 0.23 lbs of nitrogen for a 100 SF plot of tomatoes, one would require 1.5 lbs of calcium nitrate.
-
-For 0.23 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.3 lbs.
-
-For 0.275 lbs potassium, one can use potash 0-0-60 at 0.3 lbs. 
+{{< figure src="fertcalc.png" caption="fertilizer calculation, plug numbers" numbered="true" >}}
 
 
-With these values, the fertilizer can be applied weekly throughout the months. Simply divide the amount of fertilizer by the number of weeks the tomato plant may grow. To simplify measuring, convert lbs to grams...
+The required fertilizers for 1 acre are now listed below:
+
+* 667 lbs of 15-0-0 calcium nitrate
+* 217 lbs of 0-46-0 triple super phosphate 
+* 240 lbs of 0-0-50 potash
+
+Lets now convert lbs to grams to allow for easier division of square feet:
+* 302546 grams of 15-0-0 calcium nitrate
+* 98429.5 grams of 0-46-0 triple super phosphate 
+* 108862 grams of 0-0-50 potash
+
+Now convert to square feet by dividing the grams by 43560 to get fertilizer by SF
+
+* 6.7 grams of 15-0-0 calcium nitrate
+* 2.6 grams of 0-46-0 triple super phosphate 
+* 2.5 grams of 0-0-50 potash
+
+Therefore, for a 100 sf garden, **total** fertilizer required for the **lifespan** of the plants are:
+* 670 grams of 15-0-0 calcium nitrate
+* 260 grams of 0-46-0 triple super phosphate 
+* 250 grams of 0-0-50 potash
 
 
-1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted tomato plant, ~0.5 grams of calcium nitrate. 
+With these values, we can now determine the weekly serving size by dividing the amount of fertilizer by the number of weeks the plant may grow. 
 
+ <mark> **Over 20 weeks, you can apply the following weekly for a 100 SF garden of tomatoes**  </mark>
+* 670/20 = 33.5 grams of calcium nitrate weekly 
+* 260/20 = 13 grams of triple super phosphate 
+* 250/20 = 12.5 grams of potash
+
+These fertilizers can simply be placed near the stem of each plant. As they get watered, the fertilizer will break down and make its way down to the roots.
 
 
 ### In the ground

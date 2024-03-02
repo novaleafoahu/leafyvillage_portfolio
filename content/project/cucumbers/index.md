@@ -20,8 +20,9 @@ tags: [vegetables]
   - 🌧️ **Water** Every other day, if leaves
       are wilting = add water
   - 🥫 **Fertilize** Weekly with 20-20-20 at 
-          ~150-200 ppm at full size, or utilize fertilizer 
-          calculator below 
+          ~150-200 ppm or 33.5g, 9g, 8g
+          (calc nitrate, triple super phosphate, potash)
+          per 100 SF  
   - 🧪 **PH** 6.0 to 6.8
   - 📏 **Spacing** at least 1.5-2 Feet between cucumber plant
   - 🧹 **Maintenance** Trellis and guide vines to safe position,
@@ -214,7 +215,7 @@ Now that we know the weight required of each NPK value, we now determine the amo
 
 
 
-{{< figure src="fertcalc.png" caption="fertilizer calculation" numbered="true" >}}
+{{< figure src="fertcalc.png" caption="fertilizer calculation, plug numbers" numbered="true" >}}
 
 
 
@@ -243,7 +244,7 @@ In other words, for a 100 sf garden, **total** fertilizer required for the **lif
 
 With these values, we can now determine the weekly serving size by dividing the amount of fertilizer by the number of weeks the plant may grow. 
 
- <mark> **Over 20 weeks, you can apply the following weekly for a 100 SF garden**  </mark>
+ <mark> **Over 20 weeks, you can apply the following weekly for a 100 SF garden of cucumbers**  </mark>
 * 670/20 = 33.5 grams of calcium nitrate weekly 
 * 180/20 = 9 grams of triple super phosphate 
 * 160/20 = 8 grams of potash

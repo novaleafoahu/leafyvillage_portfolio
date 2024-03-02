@@ -17,13 +17,14 @@ tags: [vegetables]
   - 🌞 **Sun** Full 
   - 🌧️ **Water** Every other day, if leaves
       are wilting = add water
-  - 🥫 **Fertilize** Weekly with 20-20-20 at 
-          ~200 to 400 ppm at full size, or utilize fertilizer 
-          calculator below 
+  - 🥫 **Fertilize** Weekly 20-20-20 at 
+          ~200 to 400 ppm or 33.5g, 9g, 8g
+          (calc nitrate, triple super phosphate, potash)
+          per 100 SF 
   - 🧪 **PH** 6.0 to 6.5
-  - 📏 **Spacing** at least 3 Feet minimum between watermelon plant
+  - 📏 **Spacing** 3 Feet minimum between watermelon plants
   - 🧹 **Maintenance** harvest watermelon at picking 
-        size and tendril is dried. Expect 2-3 melons per plant.
+        size and tendril dried. Expect 2-3 melons per plant.
 
 ```
 
@@ -178,7 +179,7 @@ I typically allow the watermelon plants to grow for 5-6 months starting in April
 
 
 
-For Nitrogen (N), (100 lbs) per acre. 
+* For Nitrogen (N), (100 lbs) per acre. 
 
  
 For Phosphorus (P)
@@ -193,13 +194,11 @@ For Potassium (K)
 | ----------- | --------- | ------- | ------ |        --------- | ----| 
 | **add K lbs per acre**      | 160   | 120       | 80      | 40    | 0       | 0 |
 
-Taking average values for P and K we can use N 100 P 80 K 80 per acre (aka 43560 square feet).
 
- <mark> **Scaled down to a 100 SF garden, the values are:** </mark>
-
- - 0.23 lbs Nitrogen, 
- - 0.19 lbs Phosphorus, 
- - 0.19 lbs of Potassium.
+Taking average values for P and K we can use, per acre (i.e. 43560 square feet).: 
+* N 100 lbs
+* P 80 lbs
+* K 80 lbs
 
 
 Now that we know the weight in lbs required of each NPK value, next is to determine the amount of fertilizer equivalent. 
@@ -207,19 +206,40 @@ Now that we know the weight in lbs required of each NPK value, next is to determ
 📚 <mark> **Utilize this tool and input your fertilizer and  NPK values required (i.e. the table above) [https://aesl.ces.uga.edu/soil/fertcalc/](https://aesl.ces.uga.edu/soil/fertcalc/)** </mark> 
 
 
-For example, calcium nitrate has an NPK rating of 15.5-0-0.
-
-Therefore, to obtain 0.23 lbs of nitrogen for a 100 SF plot of tomatoes, one would require 1.5 lbs of calcium nitrate.
-
-For 0.19 lbs of phosphorous, one can use superphosphate 0-18-0 at 1.0 lbs.
-
-For 0.19 lbs potassium, one can use potash 0-0-60 at 0.3 lbs. 
+{{< figure src="fertcalc.png" caption="fertilizer calculation, plug numbers" numbered="true" >}}
 
 
-With these values, the fertilizer can be applied weekly throughout the months. Simply divide the amount of fertilizer by the number of weeks the watermelon plant may grow. To simplify measuring, convert lbs to grams...
+The required fertilizers for 1 acre are now listed below:
+
+* 667 lbs of 15-0-0 calcium nitrate
+* 174 lbs of 0-46-0 triple super phosphate 
+* 160 lbs of 0-0-50 potash
+
+Lets now convert lbs to grams to allow for easier division of square feet:
+* 302546 grams of 15-0-0 calcium nitrate
+* 78925 grams of 0-46-0 triple super phosphate 
+* 72574 grams of 0-0-50 potash
+
+Now convert to square feet by dividing the grams by 43560 
+
+* 6.7 grams of 15-0-0 calcium nitrate
+* 1.8 grams of 0-46-0 triple super phosphate 
+* 1.6 grams of 0-0-50 potash
+
+In other words, for a 100 sf garden, **total** fertilizer required for the **lifespan** of the plants are:
+* 670 grams of 15-0-0 calcium nitrate
+* 180 grams of 0-46-0 triple super phosphate 
+* 160 grams of 0-0-50 potash
 
 
-1.5 lbs of calcium nitrate = ~680 grams. Therefore, over 12 weeks, you can apply 680/12 = 56 grams of calcium nitrate weekly to a 100 SF garden bed. For a potted watermelon plant, ~0.5 grams of calcium nitrate. The same can be done for the Phosphorous and Potassium [^2]. 
+With these values, we can now determine the weekly serving size by dividing the amount of fertilizer by the number of weeks the plant may grow. 
+
+ <mark> **Over 20 weeks, you can apply the following weekly for a 100 SF garden of watermelon**  </mark>
+* 670/20 = 33.5 grams of calcium nitrate weekly 
+* 180/20 = 9 grams of triple super phosphate 
+* 160/20 = 8 grams of potash
+
+These fertilizers can simply be placed near the stem of each plant. As they get watered, the fertilizer will break down and make its way down to the roots.[^2]. 
 
 
 ### In the ground
