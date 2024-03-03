@@ -21,7 +21,7 @@ marketing:
     description: 'An online resource dedicated to gardening, compost, fertilizers.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-T19VKC0T3R'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
