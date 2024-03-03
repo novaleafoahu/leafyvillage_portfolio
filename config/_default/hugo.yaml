@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Leafyvillage.org # Website name
-baseURL: 'https://leafyvillage.org/' # Website URL
+baseURL: 'http://leafyvillage.org/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -33,7 +33,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
