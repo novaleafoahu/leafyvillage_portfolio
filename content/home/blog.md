@@ -31,7 +31,7 @@ content:
   offset: 0
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
-  sort_ascending: true
+  sort_ascending: false
 design:
     #gradient_start: '#d9ead3'
     #gradient_end: '#fff2cc'
