@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-title: Watermelon 🍉 
+title: How to grow Watermelons 🍉 
 summary: Guide for growing watermelon in the backyard.
 show_date: true
 share: true

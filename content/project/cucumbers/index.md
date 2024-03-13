@@ -1,7 +1,7 @@
 ---
 
 # Documentation: https://hugoblox.com/docs/managing-content/
-title: "Cucumbers 🥒"
+title: "How to grow Cucumbers 🥒"
 summary: "Guide to growing cucumbers in the backyard"
 toc: false
 date: '2024-02-24T00:00:00Z'

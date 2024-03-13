@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-title: Tomatoes 🍅
+title: How to grow Tomatoes 🍅
 summary: Guide for growing tomatoes in the backyard.
 show_date: true
 share: true
