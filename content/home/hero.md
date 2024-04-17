@@ -15,5 +15,5 @@ weight: 1
 ![trays](logo.png )
 
 
-🔥Welcome. Here you'll find a collection of gardening notes and a blog about my gardening journey 🍥🍜🦊.   
+🔥Welcome. Here you'll find a collection of gardening notes and a blog about my gardening journey. Visit me at [tiktok](https://www.tiktok.com/@mightyleafsgarden) and [IG](https://www.instagram.com/mightyleafgarden)🍥🍜🦊.   
  
