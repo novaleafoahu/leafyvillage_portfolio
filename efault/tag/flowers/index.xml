@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flowers | Leafyvillage.org</title>
+    <link>http://localhost:1313/tag/flowers/</link>
+      <atom:link href="http://localhost:1313/tag/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <description>flowers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 09:29:53 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu876a49f39fe3ebeea7635e177b4abea5_314544_300x300_fit_lanczos_3.png</url>
+      <title>flowers</title>
+      <link>http://localhost:1313/tag/flowers/</link>
+    </image>
+    
+    <item>
+      <title>Lavender</title>
+      <link>http://localhost:1313/project/lavender/</link>
+      <pubDate>Mon, 02 Sep 2024 09:29:53 -0400</pubDate>
+      <guid>http://localhost:1313/project/lavender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes | Leafyvillage.org</title>
+    <link>http://localhost:1313/tag/notes/</link>
+      <atom:link href="http://localhost:1313/tag/notes/index.xml" rel="self" type="application/rss+xml" />
+    <description>notes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu876a49f39fe3ebeea7635e177b4abea5_314544_300x300_fit_lanczos_3.png</url>
+      <title>notes</title>
+      <link>http://localhost:1313/tag/notes/</link>
+    </image>
+    
+    <item>
+      <title>Crop Rotation 🔁</title>
+      <link>http://localhost:1313/project/crop_rotation/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/crop_rotation/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Each type of plant, sometimes require different levels of each type of nutrients. Furthermore, each plant also attracts different type of fungus, bacteria, pests, and insects. Therefore, if the same type of plant is repeatedly grown in the same location over time, a build up of &amp;rsquo;negative things&amp;rsquo; can accumulate and certain nutrients depleted. Therefore, we best rotate them crops.&lt;/p&gt;
+&lt;p&gt;Crop rotation:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Minimizes the accumulation of certain pests/insects.&lt;/li&gt;
+&lt;li&gt;Allows for certain nutrient cycling and healthy bacteria to re-balance/re-store.&lt;/li&gt;
+&lt;li&gt;Minimizes the spread of plant diseases&lt;/li&gt;
+&lt;li&gt;many more&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With that being said, Cornell &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; recommends a 2 year period before replanting the same family in the same location. See  picture below where each crop represents a different family from the table below. Every year, each family is moved to a another location such that, crop 1 is planted in the same location after being &amp;ldquo;away&amp;rdquo; for two years.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;crop rotation&#34; srcset=&#34;
+               /project/crop_rotation/croprotate_huf621865d15c5ab51ead0817a13adb913_11766928_518521d4fca9eb55fa7c8f17b7efea87.webp 400w,
+               /project/crop_rotation/croprotate_huf621865d15c5ab51ead0817a13adb913_11766928_9c4bebe19788f22c2c53c62c498caa1a.webp 760w,
+               /project/crop_rotation/croprotate_huf621865d15c5ab51ead0817a13adb913_11766928_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/crop_rotation/croprotate_huf621865d15c5ab51ead0817a13adb913_11766928_518521d4fca9eb55fa7c8f17b7efea87.webp&#34;
+               width=&#34;505&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Here are a list of some common veggie families to note.&lt;/p&gt;
+&lt;h2 id=&#34;common-vegetable-family-groups&#34;&gt;Common vegetable family groups&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;FAMILY&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;MEMBER PLANTS&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;🧄&lt;strong&gt;Allium&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;chive, garlic, garlic chive, leek, onion, perennial onion, shallot&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🌿&lt;strong&gt;Amaranth&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;amaranth&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🥦&lt;strong&gt;Brassica&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;bok choi, broccoli, Brussels sprouts, cabbage, cauliflower, Chinese cabbage, collard, horseradish, kale, kohlrabi, mustard, rutabaga, radish, turnip&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🌻&lt;strong&gt;Composite&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;artichoke, chicory, endive, Jerusalem artichoke, lettuce, sunflower&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🥒&lt;strong&gt;Curcurbit&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;cucumber, gourd, melon, pumpkin, squash (winter &amp;amp; summer), watermelon, zucchini&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🍃&lt;strong&gt;Goosefoot&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;beet, chard, quinoa, spinach&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🌾&lt;strong&gt;Grain&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;barley, corn, oats, rice, rye, wheat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🍀&lt;strong&gt;Legume&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;bean, clover, pea, vetch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🎍&lt;strong&gt;Lily&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;asparagus&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;🌿Mallow&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;okra&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🌿 &lt;strong&gt;Mint&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;basil, mint, oregano, sage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;🥔Morning Glory&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;sweet potato&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;🍆Nightshade&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;eggplant, ground cherry, pepper, potato, tomatillo, tomato&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🍓 &lt;strong&gt;Rose&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;strawberry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;🌾Smartweed&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;buckwheat, rhubarb, sorrel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🥕 &lt;strong&gt;Umbel&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;carrot, celeriac, celery, dill, fennel, lovage, parley, parsnip&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ccecolumbiagreene.org/gardening/food-gardening/rotating-vegetables-by-family&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cornell greenhouse extension&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Garden Zones 🗺️</title>
+      <link>http://localhost:1313/project/zones/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/zones/</guid>
+      <description>&lt;h3 id=&#34;determine-garden-zone&#34;&gt;Determine garden zone&lt;/h3&gt;
+&lt;p&gt;Locate the area of your garden below and note the zone. Use this information to help estimate suitable planting and seed starting dates for your area. In each vegetable section, note the start dates for seed starting and transplanting. To access the full map at USDA, click the link underneath the map below. The USA map is further broken down into separate areas that showcase different zones in each state. See below.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure--for-further--details-visit-the-usda--maphttpsplanthardinessarsusdagov&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;usa zones&#34; srcset=&#34;
+               /media/zone_hu0119edda9af3a5c69ca77d8d177d20e4_378167_602cef1bbddd7ddd3dd3d8f9148cf8d1.webp 400w,
+               /media/zone_hu0119edda9af3a5c69ca77d8d177d20e4_378167_924dac1a0b26b3365be4b91c4534c286.webp 760w,
+               /media/zone_hu0119edda9af3a5c69ca77d8d177d20e4_378167_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/zone_hu0119edda9af3a5c69ca77d8d177d20e4_378167_602cef1bbddd7ddd3dd3d8f9148cf8d1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;535&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      ⓘ For further  details, visit the &lt;a href=&#34;https://planthardiness.ars.usda.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;usda  map&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-north-central-zone&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;North Central Zone&#34; srcset=&#34;
+               /project/zones/NC_hu2bf2aaf80739b1ca98336caafac00bef_756007_bb0e332ced713ef10723b74765628179.webp 400w,
+               /project/zones/NC_hu2bf2aaf80739b1ca98336caafac00bef_756007_a005c0f3535306817b8d9f98784e0d69.webp 760w,
+               /project/zones/NC_hu2bf2aaf80739b1ca98336caafac00bef_756007_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/zones/NC_hu2bf2aaf80739b1ca98336caafac00bef_756007_bb0e332ced713ef10723b74765628179.webp&#34;
+               width=&#34;569&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      North Central Zone
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-north-east-zone&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;North East Zone&#34; srcset=&#34;
+               /project/zones/NE_hu1c5fdb025d44cadb8ffa404e41a282fa_1224363_cc59c334c4f431e2972330521902036e.webp 400w,
+               /project/zones/NE_hu1c5fdb025d44cadb8ffa404e41a282fa_1224363_aa08ce37bba144a6fa61f1adf031cce8.webp 760w,
+               /project/zones/NE_hu1c5fdb025d44cadb8ffa404e41a282fa_1224363_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/zones/NE_hu1c5fdb025d44cadb8ffa404e41a282fa_1224363_cc59c334c4f431e2972330521902036e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      North East Zone
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-north-west-zone&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;North West Zone&#34; srcset=&#34;
+               /project/zones/NW_hue1edaf3e053519a40f6724ab05af4dd9_1858455_bc287f348c3a772f1740779d3c483f1b.webp 400w,
+               /project/zones/NW_hue1edaf3e053519a40f6724ab05af4dd9_1858455_919451f8cddde9f97064369fd1dd3929.webp 760w,
+               /project/zones/NW_hue1edaf3e053519a40f6724ab05af4dd9_1858455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/zones/NW_hue1edaf3e053519a40f6724ab05af4dd9_1858455_bc287f348c3a772f1740779d3c483f1b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;571&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      North West Zone
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-south-central-zone&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;South Central Zone&#34; srcset=&#34;
+               /project/zones/SC_hu4b4544f19cf97cd281a6581b4c3220ac_1096987_3f9538cd5d6043e2fbe2cbcb5b08777c.webp 400w,
+               /project/zones/SC_hu4b4544f19cf97cd281a6581b4c3220ac_1096987_990645b4b1460212056b8a18e6f4938d.webp 760w,
+               /project/zones/SC_hu4b4544f19cf97cd281a6581b4c3220ac_1096987_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/zones/SC_hu4b4544f19cf97cd281a6581b4c3220ac_1096987_3f9538cd5d6043e2fbe2cbcb5b08777c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;574&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      South Central Zone
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-south-east-zone&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;South East Zone&#34; srcset=&#34;
+               /project/zones/SE_hufc25af44c567302ca8625feb9c1d89e4_865366_894ecf4b51d3b7ca07b8d50474dbc047.webp 400w,
+               /project/zones/SE_hufc25af44c567302ca8625feb9c1d89e4_865366_5ddbdc34d3b86077dd9adc1d72ce560e.webp 760w,
+               /project/zones/SE_hufc25af44c567302ca8625feb9c1d89e4_865366_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/zones/SE_hufc25af44c567302ca8625feb9c1d89e4_865366_894ecf4b51d3b7ca07b8d50474dbc047.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;590&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      South East Zone
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-south-west-zone&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;South West Zone&#34; srcset=&#34;
+               /project/zones/SW_hud5ed7453164ae9fa2e064da3d39776e4_1731336_2e142a11d4bc7b769f4d19ef4c87bccb.webp 400w,
+               /project/zones/SW_hud5ed7453164ae9fa2e064da3d39776e4_1731336_bb3b95f710bfe05a78b77ca689aa4cb4.webp 760w,
+               /project/zones/SW_hud5ed7453164ae9fa2e064da3d39776e4_1731336_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/zones/SW_hud5ed7453164ae9fa2e064da3d39776e4_1731336_2e142a11d4bc7b769f4d19ef4c87bccb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;577&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      South West Zone
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
